@@ -1,0 +1,24 @@
+{
+  "name": "stream-aqueduct",
+  "version": "0.0.0",
+  "description": "",
+  "main": "aqueduct.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonewman/stream-aqueduct.git"
+  },
+  "keywords": [
+    "stream",
+    "pipeline",
+    "streamline"
+  ],
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/stream-aqueduct/issues"
+  },
+  "homepage": "https://github.com/sonewman/stream-aqueduct"
+}
