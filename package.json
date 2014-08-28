@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/sonewman/stream-aqueduct/issues"
   },
-  "homepage": "https://github.com/sonewman/stream-aqueduct"
+  "homepage": "https://github.com/sonewman/stream-aqueduct",
+  "devDependencies": {
+    "macchiato": "^1.0.0"
+  },
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "isstream": "^0.1.0",
+    "readable-stream": "^1.1.13"
+  }
 }
